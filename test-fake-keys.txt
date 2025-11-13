@@ -1,0 +1,14 @@
+🔐 1. Fake AWS Keys
+Key Type	Example Value
+Access Key ID	AKIA7Q5DLT3Z1W9K8B9Z
+Secret Access Key	u8N2z5dR4mZ2kF9qVj6uL5bC1tR7yX8nE3cA1sL9
+Session Token	FwoGZXIvYXdzEH4aDMnO1v4sJdT1cNf9OqH8D9mQZ+IzB3x6l4Rv0iD+Jp3tE2iZ1uB5kF7dQ7WlP0k+R2tJ3l9qP6l2wQ==
+
+(Format matches AWS IAM credentials — can be embedded in YAML, JSON, or config files to simulate secret detection.)
+
+🧰 2. Fake Azure Access Keys
+Key Type	Example Value
+Azure Storage Account Key	3r2L5H8PzN9aD2R6tT9kJ5hX2pB8sQ3vG9mT1zR4W8xA6cF2dH0lE7pR9nV3sK8g==
+Client ID	8f43b2e1-6a3d-4e5c-b8a0-8e13f2a6f3b9
+Tenant ID	4a1f2d3e-7b8c-4f3a-b1e5-1f2a3b4c5d6e
+Client Secret	QzR3nT7xU9pL2bC6dE8vM1sW4rH9yK5zT3qN6gP0
